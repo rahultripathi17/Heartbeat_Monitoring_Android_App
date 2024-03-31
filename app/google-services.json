@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "645525607301",
+    "firebase_url": "https://heartbeat-monitoring-rt-default-rtdb.firebaseio.com",
+    "project_id": "heartbeat-monitoring-rt",
+    "storage_bucket": "heartbeat-monitoring-rt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645525607301:android:cb7d7d4d046cc92fee2aec",
+        "android_client_info": {
+          "package_name": "com.heartmonitoring.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645525607301-1mapisg9qht7g6kf98t740t3q6n39hd2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7FGKVtLvI76jYR-_8PTNsef9GAvlOrvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645525607301-1mapisg9qht7g6kf98t740t3q6n39hd2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

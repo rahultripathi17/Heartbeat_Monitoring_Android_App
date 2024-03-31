@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Heartbeat Monitoring</string>
+    <string name="record">Record</string>
+    <string name="listen">Listen</string>
+    <string name="heart_photo">Heart Photo</string>
+    <string name="name">Name</string>
+    <string name="save">Save</string>
+    <string name="enter_file_name">File Name</string>
+</resources>
